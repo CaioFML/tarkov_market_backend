@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module DataBuilder
   module Tarkov
     class Items < ApplicationService
